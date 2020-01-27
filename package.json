@@ -1,0 +1,27 @@
+{
+  "name": "bootflex-grid",
+  "version": "1.0.0",
+  "description": "grid with flex box",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp",
+    "dev": "gulp && gulp watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "grid",
+    "flex",
+    "box"
+  ],
+  "author": "eudesroger7",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-sass": "^4.0.2",
+    "node-sass": "^4.13.1"
+  }
+}
