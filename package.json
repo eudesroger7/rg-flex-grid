@@ -1,6 +1,6 @@
 {
   "name": "rg-flex-grid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "grid with flex box",
   "main": "index.js",
   "homepage": "https://github.com/eudesroger7/rg-flex-grid#readme",
@@ -30,7 +30,7 @@
   ],
   "author": "Eudes Roger <eudesroger7@gmail.com>",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "gulp": "4.0.2",
     "gulp-clean": "0.4.0",
     "gulp-concat": "2.6.1",
