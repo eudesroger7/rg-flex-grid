@@ -1,3 +1,3 @@
-module.exports = (str) => {
-  return `${str}`;
+module.exports = () => {
+  return `Thanks for using rg-flex-grid :)`;
 }
