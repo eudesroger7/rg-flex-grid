@@ -64,11 +64,6 @@
   padding-right: 0.8rem;
   box-sizing: border-box;
   width: calc(var(--columnWidth) * 12);
-
-  .row {
-    margin-left: -0.8rem;
-    margin-right: -0.8rem;
-  }
 }
 
 @media (min-width: 0px) {
